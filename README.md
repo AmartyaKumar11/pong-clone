@@ -36,7 +36,7 @@ A simple and fun **Pong Clone** built using **HTML**, **CSS**, and **JavaScript*
 ## Installation and Usage 🖥️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pong-clone.git
+   git clone https://github.com/AmartyaKumar11/pong-clone.git
    ```
 2. Navigate to the project folder:
    ```bash
