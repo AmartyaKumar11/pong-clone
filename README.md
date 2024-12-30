@@ -1,29 +1,32 @@
 # Pong Clone 🎮
 
-A simple and fun **Pong Clone** built using **HTML**, **CSS**, and **JavaScript**. This project recreates the classic arcade game Pong, allowing users to play a two-player game right in their browser.
+A simple and fun **Pong Clone** built using **HTML**, **CSS**, and **JavaScript**. This project recreates the classic arcade game Pong, allowing users to play against a computer opponent right in their browser.
 
 ## Features 🌟
-- **Two-Player Gameplay**: Compete with a friend in a classic Pong match.
-- **Responsive Controls**: Smooth paddle movement using keyboard input.
-- **Score Tracking**: Real-time display of scores for both players.
+- **Single-Player Gameplay**: Play against a computer-controlled opponent.
+- **Mouse Controls**: Move the player paddle smoothly using your mouse.
+- **Score Tracking**: Real-time display of scores for both the player and the computer.
 - **Game Reset**: Easily restart the game to play again.
 - **Dynamic Colors**: The background and ball change colors automatically in a cycle.
+- **Adaptive Difficulty**: Game speed increases automatically as the game progresses.
 - **Clean Design**: Minimalist and responsive layout for a retro arcade feel.
 
+## Demo 🎥
+Check out a live demo [here](#). *(Add your deployment link)*
 
 ## How It Works 🚀
 1. **Player Controls**:
-   - Player 1: Use `W` and `S` keys to move the paddle up and down.
-   - Player 2: Use `Arrow Up` and `Arrow Down` keys for paddle control.
+   - Move the player paddle using your mouse.
 2. The ball moves automatically, bouncing off paddles and walls.
-3. A player scores a point if the opponent misses the ball.
+3. A player scores a point if the opponent (computer) misses the ball.
 4. The first player to reach the winning score is declared the winner.
 5. The background and ball colors transition smoothly through a color cycle, adding a dynamic visual element.
+6. The ball speed increases gradually as the game progresses, making it more challenging over time.
 
 ## Technologies Used 🛠️
 - **HTML**: Structure of the game canvas and UI elements.
 - **CSS**: Styling for the paddles, ball, and overall game layout.
-- **JavaScript**: Game logic, including ball movement, collision detection, score tracking, and color transitions.
+- **JavaScript**: Game logic, including ball movement, collision detection, score tracking, computer AI, and color transitions.
 
 ## Project Structure 📂
 ```
@@ -45,12 +48,17 @@ A simple and fun **Pong Clone** built using **HTML**, **CSS**, and **JavaScript*
 3. Open `index.html` in your browser to play the game.
 
 ## Customization ✏️
-- **Adjust Game Speed**: Modify the ball and paddle speed in `script.js` to change the difficulty.
 - **Styling**: Update `style.css` to customize the appearance of the game.
 - **Winning Score**: Change the winning score in `script.js` for longer or shorter games.
 - **Color Cycle Speed**: Adjust the timing of the color transitions in `script.js` to control how quickly the colors change.
 
+## Screenshots 📸
+*(Add relevant screenshots of your project here)*
 
 ## Contribution 🤝
 Feel free to fork this repository and submit pull requests for improvements or new features!
+
+## License 📜
+This project is licensed under the [MIT License](LICENSE).
+
 
