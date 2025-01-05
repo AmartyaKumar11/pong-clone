@@ -52,8 +52,6 @@ Check out a live demo [here](#). *(Add your deployment link)*
 - **Winning Score**: Change the winning score in `script.js` for longer or shorter games.
 - **Color Cycle Speed**: Adjust the timing of the color transitions in `script.js` to control how quickly the colors change.
 
-## Screenshots 📸
-*(Add relevant screenshots of your project here)*
 
 ## Contribution 🤝
 Feel free to fork this repository and submit pull requests for improvements or new features!
